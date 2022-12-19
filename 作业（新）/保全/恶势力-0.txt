@@ -1,0 +1,649 @@
+{
+    "actions": [
+        {
+            "type": "部署",
+            "name": "回费",
+            "location": [
+                4,
+                3
+            ],
+            "direction": "右"
+        },
+        {
+            "name": "先锋",
+            "type": "部署",
+            "location": [
+                5,
+                3
+            ],
+            "direction": "右"
+        },
+        {
+            "type": "部署",
+            "name": "先锋",
+            "location": [
+                5,
+                3
+            ],
+            "direction": "右"
+        },
+        {
+            "type": "部署",
+            "name": "豆苗",
+            "location": [
+                4,
+                4
+            ],
+            "direction": "右"
+        },
+        {
+            "type": "部署",
+            "name": "地面阻挡",
+            "location": [
+                5,
+                3
+            ],
+            "direction": "右"
+        },
+        {
+            "type": "部署",
+            "name": "地面阻挡",
+            "location": [
+                5,
+                3
+            ],
+            "direction": "右"
+        },
+        {
+            "type": "部署",
+            "name": "高台辅助",
+            "location": [
+                6,
+                4
+            ],
+            "direction": "左"
+        },
+        {
+            "type": "部署",
+            "name": "重装",
+            "location": [
+                5,
+                3
+            ],
+            "direction": "右"
+        },
+        {
+            "type": "部署",
+            "name": "泥岩",
+            "location": [
+                5,
+                3
+            ],
+            "direction": "右"
+        },
+        {
+            "type": "部署",
+            "name": "回费",
+            "location": [
+                4,
+                3
+            ],
+            "direction": "右"
+        },
+        {
+            "type": "部署",
+            "name": "高台输出",
+            "location": [
+                4,
+                4
+            ],
+            "direction": "右"
+        },
+        {
+            "type": "部署",
+            "name": "高台输出",
+            "location": [
+                4,
+                4
+            ],
+            "direction": "右"
+        },
+        {
+            "type": "部署",
+            "name": "高台辅助",
+            "location": [
+                6,
+                4
+            ],
+            "direction": "左"
+        },
+        {
+            "type": "部署",
+            "name": "高台输出",
+            "location": [
+                4,
+                4
+            ],
+            "direction": "右"
+        },
+        {
+            "type": "部署",
+            "name": "豆苗",
+            "location": [
+                4,
+                4
+            ],
+            "direction": "右"
+        },
+        {
+            "type": "部署",
+            "name": "高台输出",
+            "location": [
+                4,
+                4
+            ],
+            "direction": "右"
+        },
+        {
+            "type": "部署",
+            "name": "回费",
+            "location": [
+                4,
+                3
+            ],
+            "direction": "右"
+        },
+        {
+            "name": "高台输出",
+            "type": "部署",
+            "location": [
+                4,
+                4
+            ],
+            "direction": "右"
+        },
+        {
+            "type": "部署",
+            "name": "高台输出",
+            "location": [
+                4,
+                4
+            ],
+            "direction": "右"
+        },
+        {
+            "type": "部署",
+            "name": "高台输出",
+            "location": [
+                4,
+                4
+            ],
+            "direction": "右"
+        },
+        {
+            "type": "部署",
+            "name": "回费",
+            "location": [
+                4,
+                3
+            ],
+            "direction": "右"
+        },
+        {
+            "type": "部署",
+            "name": "水陈组",
+            "location": [
+                4,
+                4
+            ],
+            "direction": "右"
+        },
+        {
+            "type": "部署",
+            "name": "回费",
+            "location": [
+                4,
+                3
+            ],
+            "direction": "右"
+        },
+        {
+            "type": "部署",
+            "name": "高台辅助",
+            "location": [
+                6,
+                4
+            ],
+            "direction": "左"
+        },
+        {
+            "type": "部署",
+            "name": "泥岩",
+            "location": [
+                5,
+                3
+            ],
+            "direction": "右"
+        },
+        {
+            "type": "技能",
+            "kills": 1,
+            "name": "all"
+        },
+        {
+            "type": "技能",
+            "kills": 2,
+            "name": "all"
+        },
+        {
+            "type": "技能",
+            "kills": 3,
+            "name": "all"
+        },
+        {
+            "type": "技能",
+            "kills": 4,
+            "name": "all"
+        },
+        {
+            "type": "技能",
+            "kills": 5,
+            "name": "all"
+        },
+        {
+            "type": "技能",
+            "kills": 6,
+            "name": "all"
+        },
+        {
+            "type": "技能",
+            "kills": 7,
+            "name": "all"
+        },
+        {
+            "type": "技能",
+            "kills": 8,
+            "name": "all"
+        },
+        {
+            "type": "技能",
+            "kills": 9,
+            "name": "all"
+        },
+        {
+            "type": "技能",
+            "kills": 10,
+            "name": "all"
+        },
+        {
+            "type": "部署",
+            "name": "地面阻挡",
+            "location": [
+                4,
+                3
+            ],
+            "direction": "右",
+            "kills": 17
+        },
+        {
+            "type": "部署",
+            "name": "地面阻挡",
+            "location": [
+                4,
+                3
+            ],
+            "direction": "右",
+            "kills": 18
+        },
+        {
+            "type": "部署",
+            "name": "地面阻挡",
+            "location": [
+                4,
+                3
+            ],
+            "direction": "右",
+            "kills": 18
+        },
+        {
+            "type": "部署",
+            "name": "棘刺",
+            "location": [
+                4,
+                3
+            ],
+            "direction": "右",
+            "kills": 18
+        },
+        {
+            "type": "部署",
+            "name": "高台辅助",
+            "location": [
+                6,
+                4
+            ],
+            "direction": "左",
+            "kills": 18
+        },
+        {
+            "type": "部署",
+            "name": "红蒂组",
+            "location": [
+                6,
+                4
+            ],
+            "direction": "左",
+            "kills": 18
+        },
+        {
+            "type": "部署",
+            "kills": 23,
+            "name": "泥岩",
+            "location": [
+                5,
+                3
+            ],
+            "direction": "右"
+        },
+        {
+            "type": "部署",
+            "kills": 23,
+            "name": "水陈组",
+            "location": [
+                4,
+                4
+            ],
+            "direction": "右"
+        },
+        {
+            "type": "部署",
+            "kills": 23,
+            "name": "棘刺",
+            "location": [
+                4,
+                3
+            ],
+            "direction": "右"
+        },
+        {
+            "type": "部署",
+            "kills": 23,
+            "name": "红蒂组",
+            "location": [
+                6,
+                4
+            ],
+            "direction": "左"
+        },
+        {
+            "type": "部署",
+            "name": "泥岩",
+            "location": [
+                5,
+                3
+            ],
+            "direction": "右",
+            "kills": 24
+        },
+        {
+            "type": "部署",
+            "name": "水陈组",
+            "location": [
+                4,
+                4
+            ],
+            "direction": "右",
+            "kills": 30
+        },
+        {
+            "type": "部署",
+            "name": "棘刺",
+            "location": [
+                4,
+                3
+            ],
+            "direction": "右",
+            "kills": 30
+        },
+        {
+            "type": "部署",
+            "name": "红蒂组",
+            "location": [
+                4,
+                5
+            ],
+            "direction": "左",
+            "kills": 30
+        },
+        {
+            "type": "部署",
+            "name": "泥岩",
+            "location": [
+                5,
+                3
+            ],
+            "direction": "右",
+            "kills": 36
+        },
+        {
+            "type": "部署",
+            "name": "水陈组",
+            "location": [
+                4,
+                4
+            ],
+            "direction": "右",
+            "kills": 36
+        },
+        {
+            "type": "部署",
+            "name": "棘刺",
+            "location": [
+                4,
+                3
+            ],
+            "direction": "右",
+            "kills": 36
+        },
+        {
+            "type": "部署",
+            "name": "红蒂组",
+            "location": [
+                6,
+                4
+            ],
+            "direction": "左",
+            "kills": 36
+        },
+        {
+            "type": "部署",
+            "name": "泥岩",
+            "location": [
+                5,
+                3
+            ],
+            "direction": "右",
+            "kills": 42
+        },
+        {
+            "type": "部署",
+            "name": "水陈组",
+            "location": [
+                4,
+                4
+            ],
+            "direction": "右",
+            "kills": 42
+        },
+        {
+            "type": "部署",
+            "name": "棘刺",
+            "location": [
+                4,
+                3
+            ],
+            "direction": "右",
+            "kills": 42
+        },
+        {
+            "type": "部署",
+            "name": "红蒂组",
+            "location": [
+                6,
+                4
+            ],
+            "direction": "左",
+            "kills": 42
+        }
+    ],
+    "opers": [
+        {
+            "name": "桃金娘",
+            "skill": 1,
+            "skill_usage": 1
+        },
+        {
+            "name": "豆苗",
+            "skill": 1,
+            "skill_usage": 0
+        },
+        {
+            "name": "泥岩",
+            "skill": 2
+        },
+        {
+            "name": "棘刺",
+            "skill": 3,
+            "skill_usage": 1
+        }
+    ],
+    "stage_name": "恶势力",
+    "groups": [
+        {
+            "name": "高台输出",
+            "opers": [
+                {
+                    "name": "豆苗",
+                    "skill": 1
+                },
+                {
+                    "name": "狙击"
+                },
+                {
+                    "name": "术士"
+                },
+                {
+                    "name": "夜半"
+                },
+                {
+                    "name": "伺夜"
+                }
+            ]
+        },
+        {
+            "name": "地面阻挡",
+            "opers": [
+                {
+                    "name": "先锋"
+                },
+                {
+                    "name": "桃金娘",
+                    "skill": 1,
+                    "skill_usage": 1
+                },
+                {
+                    "name": "近卫"
+                },
+                {
+                    "name": "重装"
+                }
+            ]
+        },
+        {
+            "name": "高台辅助",
+            "opers": [
+                {
+                    "name": "辅助"
+                },
+                {
+                    "name": "医疗"
+                }
+            ]
+        },
+        {
+            "name": "回费",
+            "opers": [
+                {
+                    "name": "桃金娘",
+                    "skill": 1,
+                    "skill_usage": 1
+                },
+                {
+                    "name": "先锋"
+                }
+            ]
+        },
+        {
+            "name": "水陈组",
+            "opers": [
+                {
+                    "name": "假日威龙陈",
+                    "skill": 3,
+                    "skill_usage": 1
+                },
+                {
+                    "name": "澄闪",
+                    "skill": 2,
+                    "skill_usage": 0
+                },
+                {
+                    "name": "异客",
+                    "skill": 3,
+                    "skill_usage": 1
+                },
+                {
+                    "name": "铃兰",
+                    "skill": 2
+                },
+                {
+                    "name": "艾雅法拉",
+                    "skill": 2
+                }
+            ],
+            "qty_reqd": 1
+        },
+        {
+            "name": "红蒂组",
+            "qty_reqd": 1,
+            "opers": [
+                {
+                    "name": "浊心斯卡蒂",
+                    "skill": 2
+                },
+                {
+                    "name": "白面鸮",
+                    "skill": 2
+                },
+                {
+                    "name": "华法琳",
+                    "skill": 2,
+                    "skill_usage": 1
+                }
+            ]
+        },
+        {
+            "name": "地面辅助",
+            "opers": [
+                {
+                    "name": "罗比菈塔"
+                },
+                {
+                    "name": "掠风"
+                },
+                {
+                    "name": "白铁"
+                }
+            ]
+        }
+    ]
+}
