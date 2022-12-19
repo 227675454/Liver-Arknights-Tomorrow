@@ -9,7 +9,7 @@
 
 [QQ机器人推送服务](https://github.com/tkkcc/qqimagedeliver)（速通BOT）
 
-[识别明日方舟地图中的格子](https://github.com/yuanyan3060/Arknights-Tile-Pos)
+[Arknights-Tile-Pos](https://github.com/yuanyan3060/Arknights-Tile-Pos)：识别明日方舟地图中的格子
 
 [作业生成器](https://github.com/MaaAssistantArknights/MaaCopilotDesigner)
 
