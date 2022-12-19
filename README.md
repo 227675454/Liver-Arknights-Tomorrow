@@ -6,9 +6,15 @@
 
 [新版保全派驻（阿卡胡拉丛林）](https://www.bilibili.com/video/BV1QG411P75n)
 ##
+
+[QQ机器人推送服务](https://github.com/tkkcc/qqimagedeliver)（速通BOT）
+
 [识别明日方舟地图中的格子](https://github.com/yuanyan3060/Arknights-Tile-Pos)
+
 [作业生成器](https://github.com/MaaAssistantArknights/MaaCopilotDesigner)
+
 [MAA作业网](https://prt.plus)
+
 [地图坐标](https://map.ark-nights.com)
 
 
