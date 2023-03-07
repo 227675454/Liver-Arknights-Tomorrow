@@ -21,4 +21,4 @@
 ##
 [讨论群](https://jq.qq.com/?_wv=1027&k=nqIXrYCR) 加群答案：素王豆腐
 
-友情链接：[MAA](https://github.com/MistEO/MeoAssistantArknightsc),[速通](https://github.com/tkkcc/arknights),[AAH](https://github.com/ninthDevilHAUNSTER/ArknightsAutoHelper)，[maa作业群](https://jq.qq.com/?_wv=1027&k=3txx0L8p)
+友情链接：[MAA](https://github.com/MaaAssistantArknights/MaaAssistantArknights), [速通](https://github.com/tkkcc/arknights), [AAH](https://github.com/ninthDevilHAUNSTER/ArknightsAutoHelper)，[maa作业群](https://jq.qq.com/?_wv=1027&k=3txx0L8p)
